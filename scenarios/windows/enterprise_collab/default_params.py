@@ -20,8 +20,6 @@ def run():
     return
 
 def run_user_only():
-    import_run_user_only('..\\_library\\productivity\\prod_excel_run_r3', here=__file__)
-    import_run_user_only('..\\_library\\productivity\\prod_word_run_r1', here=__file__)
     import_run_user_only('scenarios\\windows\\_library\\Teams\\teams_setup')
     import_run_user_only('scenarios\\windows\\_library\\Teams\\teams_teardown')
     import_run_user_only('scenarios\\windows\\_library\\enterprise_collab\\diagnostics_disable')
@@ -34,9 +32,13 @@ def run_user_only():
     import_run_user_only('scenarios\\windows\\_library\\misc\\recording_phase_begin')
     import_run_user_only('scenarios\\windows\\_library\\misc\\recording_phase_end')
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_close')
+    import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_excel_open')
+    import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_excel_run_r3')
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_kill')
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_open')
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_setup')
+    import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_word_open')
+    import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_word_run_r1')
     import_run_user_only('scenarios\\windows\\_library\\web\\web_check')
     import_run_user_only('scenarios\\windows\\_library\\web\\web_close_tabs')
     import_run_user_only('scenarios\\windows\\_library\\web\\web_kill')
