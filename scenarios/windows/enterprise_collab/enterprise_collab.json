@@ -332,6 +332,31 @@
     {
         "children": [
             {
+                "children": [],
+                "delay": "0",
+                "description": "",
+                "enabled": true,
+                "id": "1YF0JCE",
+                "include_path": "scenarios\\windows\\_library\\productivity\\prod_open",
+                "type": "Include"
+            },
+            {
+                "children": [],
+                "delay": "0",
+                "description": "",
+                "enabled": true,
+                "id": "1YF0JP9",
+                "include_path": "scenarios\\windows\\_library\\productivity\\prod_word_run_r1",
+                "params": [
+                    {
+                        "name": "[short_typing]",
+                        "val_options": "0,1",
+                        "value": "0"
+                    }
+                ],
+                "type": "Include"
+            },
+            {
                 "children": [
                     {
                         "children": [],
