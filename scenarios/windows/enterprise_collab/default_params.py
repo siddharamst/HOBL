@@ -35,6 +35,7 @@ def run_user_only():
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_excel_open')
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_excel_run_r3')
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_kill')
+    import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_newoutlook_run')
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_open')
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_setup')
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_word_open')

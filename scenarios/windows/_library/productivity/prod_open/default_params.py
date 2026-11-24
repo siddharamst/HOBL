@@ -11,6 +11,7 @@ def run():
 
 def run_user_only():
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_excel_open')
+    import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_newoutlook_open')
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_onenote_open')
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_outlook_open')
     import_run_user_only('scenarios\\windows\\_library\\productivity\\prod_powerpoint_open')

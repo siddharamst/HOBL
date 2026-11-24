@@ -443,6 +443,22 @@
                         "delay": "0",
                         "description": "",
                         "enabled": true,
+                        "id": "1YJF1U6",
+                        "include_path": "scenarios\\windows\\_library\\productivity\\prod_newoutlook_run",
+                        "params": [
+                            {
+                                "name": "[short_typing]",
+                                "val_options": "0,1",
+                                "value": "0"
+                            }
+                        ],
+                        "type": "Include"
+                    },
+                    {
+                        "children": [],
+                        "delay": "0",
+                        "description": "",
+                        "enabled": true,
                         "id": "1YFWM41",
                         "include_path": "scenarios\\windows\\_library\\productivity\\prod_excel_open",
                         "type": "Include"
