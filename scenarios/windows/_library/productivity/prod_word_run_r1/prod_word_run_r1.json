@@ -43,10 +43,20 @@
     {
         "children": [],
         "delay": "2",
-        "description": "",
+        "description": "SHIFT+HOME+UP",
         "enabled": true,
-        "id": "1Y71RA9",
-        "text": "\ue009ab",
+        "id": "1YFU4RC",
+        "text": "\ue008\ue011\ue013",
+        "type": "Type",
+        "typing_delay": "[typing_delay]"
+    },
+    {
+        "children": [],
+        "delay": "2",
+        "description": "CTRL+b",
+        "enabled": true,
+        "id": "1YFU5V6",
+        "text": "\ue009b",
         "type": "Type",
         "typing_delay": "[typing_delay]"
     },
