@@ -15,7 +15,7 @@
         "description": "",
         "enabled": true,
         "id": "V2N2MH",
-        "include_path": "..\\..\\misc\\recording_phase_begin",
+        "include_path": "scenarios\\windows\\_library\\misc\\recording_phase_begin",
         "type": "Include"
     },
     {
@@ -111,7 +111,7 @@
                         "description": "",
                         "enabled": true,
                         "id": "UR281C",
-                        "include_path": "..\\..\\misc\\slow_page_scroll_down",
+                        "include_path": "scenarios\\windows\\_library\\misc\\slow_page_scroll_down",
                         "type": "Include"
                     }
                 ],
@@ -302,7 +302,7 @@
         "description": "",
         "enabled": true,
         "id": "V2N2PW",
-        "include_path": "..\\..\\misc\\recording_phase_end",
+        "include_path": "scenarios\\windows\\_library\\misc\\recording_phase_end",
         "params": [
             {
                 "name": "[phase_category]",

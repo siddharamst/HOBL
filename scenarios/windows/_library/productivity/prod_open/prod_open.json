@@ -53,5 +53,14 @@
         "id": "UTHK0Y",
         "include_path": "scenarios\\windows\\_library\\productivity\\prod_onenote_open",
         "type": "Include"
+    },
+    {
+        "children": [],
+        "delay": "0",
+        "description": "",
+        "enabled": true,
+        "id": "1YJF12K",
+        "include_path": "scenarios\\windows\\_library\\productivity\\prod_newoutlook_open",
+        "type": "Include"
     }
 ]

@@ -23,17 +23,8 @@
         "delay": "0",
         "description": "",
         "enabled": true,
-        "id": "UTHME9",
-        "include_path": "scenarios\\windows\\_library\\productivity\\prod_outlook_switchto",
-        "type": "Include"
-    },
-    {
-        "children": [],
-        "delay": "0",
-        "description": "",
-        "enabled": true,
-        "id": "UTHLNT",
-        "include_path": "scenarios\\windows\\_library\\productivity\\prod_outlook_close",
+        "id": "1YL723N",
+        "include_path": "scenarios\\windows\\_library\\productivity\\prod_newoutlook_close",
         "type": "Include"
     },
     {
